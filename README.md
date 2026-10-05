@@ -237,4 +237,4 @@ This repository serves as the official landing page for MySQL 5. The software is
 **Get the most recent version of MySQL 5 today!**
 
 ---
-**Last updated:** 2026-10-04 22:44:35 UTC
+**Last updated:** 2026-10-05 01:36:04 UTC
